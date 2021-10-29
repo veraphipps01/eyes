@@ -8,7 +8,7 @@ A pair of eyes following a cursor.
 The eyes follow your mouse as you move it around the screen. 
 
 ### How to Run
-Follow the link.
+<a href="https://veraphipps01.github.io/eyes/eyes.html">Follow the link. </a>
 
 ### Built with
 - Javascript
